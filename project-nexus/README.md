@@ -21,7 +21,7 @@
 - **React.js** – front-end library
 - **Redux Toolkit** – app-wide state management
 - **Tailwind CSS** – utility-first styling
-- **React Router** *(if navigation is included)*
+- **React Router** 
 
 ---
 
